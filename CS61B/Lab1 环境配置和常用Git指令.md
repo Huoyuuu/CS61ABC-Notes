@@ -1,18 +1,17 @@
 # Lab1 配置环境和常用Git指令
 
+<https://sp18.datastructur.es/materials/lab/lab1setup/lab1setup>
+<https://sp18.datastructur.es/materials/lab/lab1/lab1>
+
 ## 下载并安装Java和Git
 
 ### 下载并安装
-
-<https://sp18.datastructur.es/materials/lab/lab1setup/windows.html>
 
 下载并安装Java、Python(optional)、Git
 
 > 注意在开始界面框选"Add Python to PATH"
 
 ### 终端指令+测试安装结果
-
-<https://sp18.datastructur.es/materials/lab/lab1setup/lab1setup>
 
 学会简易的终端指令, cd, pwd, ls, mkdir, cp, mv。
 
@@ -27,8 +26,6 @@
 > 注意将java和javac配置到PATH中，上面第二个链接内有完整教程。
 
 ## 使用Java和Git
-
-<https://sp18.datastructur.es/materials/lab/lab1/lab1>
 
 ### Java
 
